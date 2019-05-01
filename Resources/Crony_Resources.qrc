@@ -1,0 +1,23 @@
+<RCC>
+  <qresource prefix="Logo">
+    <file>Logo.png</file>
+    <file>name.png</file>
+  </qresource>
+  <qresource prefix="Icon">
+    <file>about.png</file>
+    <file>exit.png</file>
+    <file>help.png</file>
+    <file>browser.png</file>
+    <file>file.png</file>
+    <file>notebook.png</file>
+  </qresource>
+  <qresource prefix="Background">
+    <file>spinner2.gif</file>
+    <file>files.png</file>
+    <file>PC.png</file>
+    <file>back_image.png</file>
+    <file>chrome.png</file>
+    <file>firefox.png</file>
+    <file>ie.png</file>
+  </qresource>
+</RCC>
