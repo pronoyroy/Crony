@@ -1,0 +1,6 @@
+For running the Python modules,
+ the following wackages are required:
+
+1. Python 3.4
+2. PyQt4
+3. psutil 4.1.0 win amd64 py3.4
